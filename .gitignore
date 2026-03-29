@@ -1,0 +1,22 @@
+**/settings*.*
+incoming
+# Original PDF repository (clone from ROSMASTER-M3PRO.Download.link)
+ROSMASTER-M3PRO/
+
+# Annex: ignore everything, then whitelist only Download.link.txt files
+ROSMASTER-M3PRO-DOCS-MD/Annex Download Files/*
+!ROSMASTER-M3PRO-DOCS-MD/Annex Download Files/*/
+ROSMASTER-M3PRO-DOCS-MD/Annex Download Files/*/*
+!ROSMASTER-M3PRO-DOCS-MD/Annex Download Files/*/Download.link.txt
+!ROSMASTER-M3PRO-DOCS-MD/Annex Download Files/*/*/
+ROSMASTER-M3PRO-DOCS-MD/Annex Download Files/*/*/*
+!ROSMASTER-M3PRO-DOCS-MD/Annex Download Files/*/*/Download.link.txt
+!ROSMASTER-M3PRO-DOCS-MD/Annex Download Files/*/*/*/
+ROSMASTER-M3PRO-DOCS-MD/Annex Download Files/*/*/*/*
+!ROSMASTER-M3PRO-DOCS-MD/Annex Download Files/*/*/*/Download.link.txt
+
+# Embedded git repos in Annex
+ROSMASTER-M3PRO-DOCS-MD/Annex Download Files/1.Code/ros2_ws/
+
+# macOS
+.DS_Store

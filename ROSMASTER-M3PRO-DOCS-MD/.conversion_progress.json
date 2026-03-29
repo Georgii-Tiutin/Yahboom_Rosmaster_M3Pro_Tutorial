@@ -1,0 +1,1428 @@
+{
+  "version": 1,
+  "started": "2026-03-28T19:39:09.176308",
+  "completed": {
+    "5.Chassis Control Course/1.ROS control.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T19:44:48.651546",
+      "images": 8,
+      "pages": 0
+    },
+    "1.AI Large Model Preparation/Preparation of AI large models.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T19:51:05.232587",
+      "images": 0,
+      "pages": 0
+    },
+    "6.Lidar Course/9.Navigation2 single-point navigation avoid.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T19:50:22.261845",
+      "images": 20,
+      "pages": 0
+    },
+    "14.Linux System Course/1.Introduction to Linux system.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:12:28.136022",
+      "images": 0,
+      "pages": 0
+    },
+    "14.Linux System Course/5.Ubuntu software operation commands.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:12:29.911273",
+      "images": 0,
+      "pages": 0
+    },
+    "13.Main Control Course/Jetson Nano B01/10. Jetson Nano B01 system backup.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:12:52.675886",
+      "images": 1,
+      "pages": 0
+    },
+    "14.Linux System Course/2.Ubuntu file system.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:12:56.653889",
+      "images": 0,
+      "pages": 0
+    },
+    "0.Configuration and Operation Guide/7. Frequently Asked Questions and Precautions.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:12:57.965731",
+      "images": 0,
+      "pages": 0
+    },
+    "14.Linux System Course/19.Customized service management.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:13:08.405256",
+      "images": 0,
+      "pages": 0
+    },
+    "17.Image Processing Basics Course/16. Line drawing.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:13:24.628955",
+      "images": 1,
+      "pages": 0
+    },
+    "13.Main Control Course/Raspberry Pi/7.config.txt file description.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:13:31.669486",
+      "images": 0,
+      "pages": 0
+    },
+    "12.Control Board Course/1.Development environment setup/7.Import Project.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:14:11.166145",
+      "images": 3,
+      "pages": 0
+    },
+    "14.Linux System Course/4.Ubuntu common editors.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:14:17.749874",
+      "images": 0,
+      "pages": 0
+    },
+    "17.Image Processing Basics Course/17. Rectangle and circle drawing.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:14:38.038471",
+      "images": 1,
+      "pages": 0
+    },
+    "15.ROS Basic Course/4.ROS2 workspace.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:14:53.230205",
+      "images": 1,
+      "pages": 0
+    },
+    "17.Image Processing Basics Course/12. Perspective Transformation.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:15:07.747154",
+      "images": 1,
+      "pages": 0
+    },
+    "14.Linux System Course/14.Update system software sources.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:15:34.673488",
+      "images": 2,
+      "pages": 0
+    },
+    "14.Linux System Course/15.Set root user password.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:15:52.300414",
+      "images": 1,
+      "pages": 0
+    },
+    "15.ROS Basic Course/5.ROS2 function package.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:15:56.712387",
+      "images": 0,
+      "pages": 0
+    },
+    "14.Linux System Course/3.Ubuntu common commands.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:16:05.097913",
+      "images": 0,
+      "pages": 0
+    },
+    "7.Depth Camera Course/2.Depth pseudo-color image.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:16:09.159906",
+      "images": 0,
+      "pages": 0
+    },
+    "6.Lidar Course/4.Lidar tracking.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:16:14.626588",
+      "images": 0,
+      "pages": 0
+    },
+    "15.ROS Basic Course/2.ROS2 install Humble.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:16:18.604911",
+      "images": 0,
+      "pages": 0
+    },
+    "9.Robotic Arm and 3D Space Gripping Course/2.Robotic arm chassis linkage control.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:16:25.913626",
+      "images": 0,
+      "pages": 0
+    },
+    "13.Main Control Course/Jetson Nano B01/3. Re-read the memory card or USB drive that has been burned.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:16:41.106037",
+      "images": 1,
+      "pages": 0
+    },
+    "6.Lidar Course/5.Lidar guard.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:16:46.307527",
+      "images": 0,
+      "pages": 0
+    },
+    "13.Main Control Course/Raspberry Pi/13.Play audio and video.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:17:08.235241",
+      "images": 1,
+      "pages": 0
+    },
+    "17.Image Processing Basics Course/14. Image Binarization.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:18:34.512004",
+      "images": 7,
+      "pages": 0
+    },
+    "7.Depth Camera Course/3.Depth camera distance measurement.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:18:59.996928",
+      "images": 1,
+      "pages": 0
+    },
+    "16.Docker Course/4.Docker hardware interaction and data processing.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:19:17.314897",
+      "images": 1,
+      "pages": 0
+    },
+    "2.AI Large Model Basics Course/2.RAG retrieval enhancement and model training samples.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:19:36.729206",
+      "images": 1,
+      "pages": 0
+    },
+    "14.Linux System Course/16.sudo free password.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:19:49.720608",
+      "images": 1,
+      "pages": 0
+    },
+    "2.AI Large Model Basics Course/1.AI large model types and principles.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:19:56.370184",
+      "images": 0,
+      "pages": 0
+    },
+    "14.Linux System Course/8.VNC remote control.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:20:23.254136",
+      "images": 2,
+      "pages": 0
+    },
+    "0.Configuration and Operation Guide/6. Modify the firmware parameters of the car control board.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:20:53.581155",
+      "images": 2,
+      "pages": 0
+    },
+    "13.Main Control Course/Raspberry Pi/16.Get real-time temperature of Raspberry Pi.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:21:11.928262",
+      "images": 1,
+      "pages": 0
+    },
+    "13.Main Control Course/Raspberry Pi/3.Powering the Raspberry PI 5.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:21:32.417415",
+      "images": 1,
+      "pages": 0
+    },
+    "15.ROS Basic Course/12.ROS2 meta-function package.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:21:51.081562",
+      "images": 1,
+      "pages": 0
+    },
+    "14.Linux System Course/9.Transfer files remotely.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:22:34.286933",
+      "images": 3,
+      "pages": 0
+    },
+    "6.Lidar Course/3.Lidar obstacle avoidance.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:22:55.063318",
+      "images": 1,
+      "pages": 0
+    },
+    "15.ROS Basic Course/20.ROS2 recording and playback tool.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:23:41.727227",
+      "images": 3,
+      "pages": 0
+    },
+    "6.Lidar Course/13.RTAB-Map navigation.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:24:10.610798",
+      "images": 1,
+      "pages": 0
+    },
+    "13.Main Control Course/Jetson Nano B01/11. Jetson Nano Swap space increased.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:24:59.481738",
+      "images": 2,
+      "pages": 0
+    },
+    "14.Linux System Course/18.View system version.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:26:32.643540",
+      "images": 6,
+      "pages": 0
+    },
+    "11.Multi-vehicle Course/1.Multi-vehicle chassis control.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:26:54.359939",
+      "images": 1,
+      "pages": 0
+    },
+    "11.Multi-vehicle Course/2.Multi-vehicle robotic arm control.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:27:27.867176",
+      "images": 2,
+      "pages": 0
+    },
+    "14.Linux System Course/7.SSH remote control.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:28:28.517931",
+      "images": 4,
+      "pages": 0
+    },
+    "16.Docker Course/3.Docker images deeply understand and publish images.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:29:10.288820",
+      "images": 2,
+      "pages": 0
+    },
+    "13.Main Control Course/Jetson Nano B01/12. Installation and use of Jtop.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:29:37.870403",
+      "images": 1,
+      "pages": 0
+    },
+    "12.Control Board Course/1.Development environment setup/6.Install and start the microros agent.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:30:37.154258",
+      "images": 4,
+      "pages": 0
+    },
+    "17.Image Processing Basics Course/10. Affine Transformation.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:31:09.629878",
+      "images": 2,
+      "pages": 0
+    },
+    "13.Main Control Course/Raspberry Pi/6.Introduction to raspi-config tool.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:32:51.194611",
+      "images": 6,
+      "pages": 0
+    },
+    "14.Linux System Course/20.Back up system image.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:33:09.163178",
+      "images": 1,
+      "pages": 0
+    },
+    "15.ROS Basic Course/1.Introduction to ROS2.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:33:40.627026",
+      "images": 1,
+      "pages": 0
+    },
+    "16.Docker Course/2.Common commands for docker image containers.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:34:07.455226",
+      "images": 1,
+      "pages": 0
+    },
+    "17.Image Processing Basics Course/13. Grayscale processing.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:35:09.831550",
+      "images": 4,
+      "pages": 0
+    },
+    "0.Configuration and Operation Guide/4. Enter the Docker (Jetson-Nano and Raspberry Pi 5 users, see here).pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:35:53.644755",
+      "images": 3,
+      "pages": 0
+    },
+    "7.Depth Camera Course/6.Edge detection.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:36:32.793687",
+      "images": 2,
+      "pages": 0
+    },
+    "6.Lidar Course/1.Lidar introduction and use.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:37:08.621646",
+      "images": 2,
+      "pages": 0
+    },
+    "13.Main Control Course/Raspberry Pi/2. Raspberry PI system installation and backup.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:38:52.958639",
+      "images": 7,
+      "pages": 0
+    },
+    "17.Image Processing Basics Course/3. Image writing.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:39:11.018278",
+      "images": 1,
+      "pages": 0
+    },
+    "17.Image Processing Basics Course/2. Image reading and display.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:39:28.053473",
+      "images": 1,
+      "pages": 0
+    },
+    "9.Robotic Arm and 3D Space Gripping Course/1.Robotic arm solution.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:39:54.659199",
+      "images": 1,
+      "pages": 0
+    },
+    "17.Image Processing Basics Course/1. Introduction to Open Source CV.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:40:12.790324",
+      "images": 1,
+      "pages": 0
+    },
+    "17.Image Processing Basics Course/9. Image Mirroring.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:40:47.916212",
+      "images": 2,
+      "pages": 0
+    },
+    "12.Control Board Course/1.Development environment setup/5.Compile the microros driver library.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:42:05.054891",
+      "images": 5,
+      "pages": 0
+    },
+    "17.Image Processing Basics Course/5. Pixel Operation.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:42:25.825780",
+      "images": 1,
+      "pages": 0
+    },
+    "10.MoveIt2 Simulation Course/3.Random movement.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:43:03.761379",
+      "images": 2,
+      "pages": 0
+    },
+    "8.Mediapipe Visual Course/2.Posture detection.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:43:20.688685",
+      "images": 1,
+      "pages": 0
+    },
+    "15.ROS Basic Course/6.ROS2 node.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:43:40.072310",
+      "images": 1,
+      "pages": 0
+    },
+    "10.MoveIt2 Simulation Course/4.Forward kinematics design.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:44:14.688989",
+      "images": 2,
+      "pages": 0
+    },
+    "6.Lidar Course/15.Machine code handling.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:45:02.428944",
+      "images": 2,
+      "pages": 0
+    },
+    "17.Image Processing Basics Course/8. Image translation.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:45:21.420521",
+      "images": 1,
+      "pages": 0
+    },
+    "9.Robotic Arm and 3D Space Gripping Course/13.Desktop tracking and gripping machine code.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:46:01.161209",
+      "images": 2,
+      "pages": 0
+    },
+    "17.Image Processing Basics Course/18. Drawing text and pictures.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:46:31.871258",
+      "images": 1,
+      "pages": 0
+    },
+    "17.Image Processing Basics Course/15. Edge Detection.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:47:18.044119",
+      "images": 3,
+      "pages": 0
+    },
+    "14.Linux System Course/10.Driver library and communication.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:48:21.032379",
+      "images": 5,
+      "pages": 0
+    },
+    "17.Image Processing Basics Course/4. Image quality.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:48:38.284138",
+      "images": 1,
+      "pages": 0
+    },
+    "17.Image Processing Basics Course/6. Image zoom.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:49:33.294317",
+      "images": 4,
+      "pages": 0
+    },
+    "13.Main Control Course/Raspberry Pi/5.Update and upgrade operating system.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:49:51.163854",
+      "images": 1,
+      "pages": 0
+    },
+    "17.Image Processing Basics Course/7. Image cutting.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:50:08.564535",
+      "images": 1,
+      "pages": 0
+    },
+    "13.Main Control Course/Raspberry Pi/14.Using USB camera.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:51:03.210341",
+      "images": 3,
+      "pages": 0
+    },
+    "11.Multi-vehicle Course/4.Multi-vehicle formation.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:51:30.318647",
+      "images": 1,
+      "pages": 0
+    },
+    "13.Main Control Course/Raspberry Pi/12.Set screen to sleep.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:52:14.442220",
+      "images": 3,
+      "pages": 0
+    },
+    "13.Main Control Course/Jetson Nano B01/8. SSH remote login & file transfer.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:53:58.887857",
+      "images": 7,
+      "pages": 0
+    },
+    "10.MoveIt2 Simulation Course/5.Inverse kinematics design.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:54:34.454591",
+      "images": 2,
+      "pages": 0
+    },
+    "3.AI Large Model (Text Version)/1.Semantic understand instruction following.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:55:28.074838",
+      "images": 3,
+      "pages": 0
+    },
+    "8.Mediapipe Visual Course/3.Overall detection.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:56:03.083007",
+      "images": 1,
+      "pages": 0
+    },
+    "11.Multi-vehicle Course/3.Multi-vehicle navigation.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:57:23.705009",
+      "images": 4,
+      "pages": 0
+    },
+    "15.ROS Basic Course/7.ROS2 topic communication.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:57:56.925407",
+      "images": 2,
+      "pages": 0
+    },
+    "8.Mediapipe Visual Course/4.Facial Landmark Detection.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T20:58:14.753279",
+      "images": 1,
+      "pages": 0
+    },
+    "13.Main Control Course/Jetson Orin Nano_NX/8.Remote file transfer.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:00:47.101259",
+      "images": 11,
+      "pages": 0
+    },
+    "12.Control Board Course/2.Control board STM32 basic routine/4.Serial communication.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:01:51.641075",
+      "images": 4,
+      "pages": 0
+    },
+    "8.Mediapipe Visual Course/1.Hand detection.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:02:11.519651",
+      "images": 1,
+      "pages": 0
+    },
+    "12.Control Board Course/2.Control board STM32 basic routine/5.Battery voltage detection.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:03:25.086491",
+      "images": 5,
+      "pages": 0
+    },
+    "15.ROS Basic Course/18.ROS2 rqt toolbox.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:04:59.020002",
+      "images": 7,
+      "pages": 0
+    },
+    "12.Control Board Course/2.Control board STM32 basic routine/1.Turn on the LED light.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:06:00.098617",
+      "images": 4,
+      "pages": 0
+    },
+    "13.Main Control Course/Jetson Orin Nano_NX/1.Jetson Orin board introduction.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:06:42.809561",
+      "images": 2,
+      "pages": 0
+    },
+    "17.Image Processing Basics Course/11. Image Rotation.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:07:23.371058",
+      "images": 2,
+      "pages": 0
+    },
+    "10.MoveIt2 Simulation Course/8.Collision detection.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:08:02.934469",
+      "images": 2,
+      "pages": 0
+    },
+    "0.Configuration and Operation Guide/1. Quick start handle to control the car.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:08:47.203008",
+      "images": 2,
+      "pages": 0
+    },
+    "12.Control Board Course/1.Development environment setup/4.Burning STM32 firmware using serial port.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:10:10.783631",
+      "images": 6,
+      "pages": 0
+    },
+    "6.Lidar Course/12.RTAB-Map mapping.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:11:01.715151",
+      "images": 3,
+      "pages": 0
+    },
+    "14.Linux System Course/12.Bind device ID.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:13:18.134145",
+      "images": 6,
+      "pages": 0
+    },
+    "15.ROS Basic Course/13.ROS2 distributed communication.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:13:44.370448",
+      "images": 1,
+      "pages": 0
+    },
+    "12.Control Board Course/2.Control board STM32 basic routine/13.Flash access data.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:14:51.012622",
+      "images": 3,
+      "pages": 0
+    },
+    "13.Main Control Course/Jetson Orin Nano_NX/6.SSH remote login.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:17:41.401384",
+      "images": 13,
+      "pages": 0
+    },
+    "16.Docker Course/1.Docker overview and docker installation.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:19:01.253840",
+      "images": 4,
+      "pages": 0
+    },
+    "8.Mediapipe Visual Course/14.Finger control robotic arm.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:19:35.986339",
+      "images": 1,
+      "pages": 0
+    },
+    "7.Depth Camera Course/4.Wood block volume measurement.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:20:02.300910",
+      "images": 1,
+      "pages": 0
+    },
+    "15.ROS Basic Course/22.ROS2 Gazebo simulation platform.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:20:44.632982",
+      "images": 3,
+      "pages": 0
+    },
+    "2.AI Large Model Basics Course/4.Embodied intelligent functions core source code.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:23:21.305708",
+      "images": 8,
+      "pages": 0
+    },
+    "8.Mediapipe Visual Course/15.Medipipe gesture control robotic arm action group.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:23:42.430882",
+      "images": 1,
+      "pages": 0
+    },
+    "15.ROS Basic Course/3.ROS2 development environment.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:24:56.823389",
+      "images": 5,
+      "pages": 0
+    },
+    "12.Control Board Course/2.Control board STM32 basic routine/18.CAN bus communication.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:26:23.279186",
+      "images": 6,
+      "pages": 0
+    },
+    "8.Mediapipe Visual Course/7.3D object recognition.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:26:42.775157",
+      "images": 1,
+      "pages": 0
+    },
+    "16.Docker Course/5.Enter the bot's docker container.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:27:24.150334",
+      "images": 3,
+      "pages": 0
+    },
+    "12.Control Board Course/3.Control board micro_ros basic routine/5.Subscribe to the bus servo topic.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:27:57.615606",
+      "images": 2,
+      "pages": 0
+    },
+    "8.Mediapipe Visual Course/10.Palm target positioning.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:28:16.566728",
+      "images": 1,
+      "pages": 0
+    },
+    "12.Control Board Course/1.Development environment setup/3.Burning STM32 firmware using SWD.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:29:57.728697",
+      "images": 7,
+      "pages": 0
+    },
+    "12.Control Board Course/1.Development environment setup/1.Introduction to the Control Board.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:31:05.465747",
+      "images": 3,
+      "pages": 0
+    },
+    "15.ROS Basic Course/8.ROS2 service communication.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:31:43.360592",
+      "images": 2,
+      "pages": 0
+    },
+    "12.Control Board Course/3.Control board micro_ros basic routine/3.Multi-topic subscription and publishing.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:32:20.186763",
+      "images": 2,
+      "pages": 0
+    },
+    "13.Main Control Course/Jetson Nano B01/5. Jetson Nano B01 System and Desktop Introduction.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:32:56.037736",
+      "images": 2,
+      "pages": 0
+    },
+    "12.Control Board Course/3.Control board micro_ros basic routine/4.Subscribe to the buzzer topic.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:33:28.641535",
+      "images": 2,
+      "pages": 0
+    },
+    "9.Robotic Arm and 3D Space Gripping Course/14.3D tracking machine code.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:33:52.523472",
+      "images": 1,
+      "pages": 0
+    },
+    "8.Mediapipe Visual Course/5.Face detection.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:34:10.805815",
+      "images": 1,
+      "pages": 0
+    },
+    "15.ROS Basic Course/10.ROS2 custom interface message.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:35:11.651197",
+      "images": 4,
+      "pages": 0
+    },
+    "6.Lidar Course/2.Dual Lidar fusion.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:36:55.969640",
+      "images": 6,
+      "pages": 0
+    },
+    "12.Control Board Course/3.Control board micro_ros basic routine/9.Publish radar data topic.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:37:44.918165",
+      "images": 3,
+      "pages": 0
+    },
+    "10.MoveIt2 Simulation Course/2.MovelT2 simulation-reality linkage.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:39:14.868678",
+      "images": 5,
+      "pages": 0
+    },
+    "9.Robotic Arm and 3D Space Gripping Course/5.Tracking and gripping machine code.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:39:40.701667",
+      "images": 1,
+      "pages": 0
+    },
+    "12.Control Board Course/2.Control board STM32 basic routine/11.Read IMU data.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:42:09.384351",
+      "images": 6,
+      "pages": 0
+    },
+    "8.Mediapipe Visual Course/12.Fingertip gesture control robotic arm.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:43:36.245512",
+      "images": 5,
+      "pages": 0
+    },
+    "8.Mediapipe Visual Course/6.Face special effects.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:43:58.421797",
+      "images": 1,
+      "pages": 0
+    },
+    "15.ROS Basic Course/16.ROS2 common command tools.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:44:40.400287",
+      "images": 1,
+      "pages": 0
+    },
+    "13.Main Control Course/Jetson Nano B01/7. Network Configuration.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:46:36.432159",
+      "images": 4,
+      "pages": 0
+    },
+    "2.AI Large Model Basics Course/3.Embodied intelligent robot system architecture.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:49:37.593923",
+      "images": 10,
+      "pages": 0
+    },
+    "12.Control Board Course/2.Control board STM32 basic routine/16.SBUS model aircraft remote control.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:51:07.498264",
+      "images": 6,
+      "pages": 0
+    },
+    "7.Depth Camera Course/7.YOLOv8 object detection.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:51:30.441255",
+      "images": 1,
+      "pages": 0
+    },
+    "12.Control Board Course/1.Development environment setup/2.Set up the STM32CUBEIDE development environment.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:56:36.137986",
+      "images": 22,
+      "pages": 0
+    },
+    "12.Control Board Course/3.Control board micro_ros basic routine/8.Publish IMU data topic.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:57:12.870051",
+      "images": 2,
+      "pages": 0
+    },
+    "8.Mediapipe Visual Course/11.Fingertip trajectory recognition.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:58:30.204744",
+      "images": 5,
+      "pages": 0
+    },
+    "14.Linux System Course/17.Connect to WiFi network.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:58:58.410169",
+      "images": 2,
+      "pages": 0
+    },
+    "9.Robotic Arm and 3D Space Gripping Course/4.Sorting height abnormality machine code.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:59:23.358988",
+      "images": 1,
+      "pages": 0
+    },
+    "9.Robotic Arm and 3D Space Gripping Course/3.Machine code ID sorting.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T21:59:59.197467",
+      "images": 1,
+      "pages": 0
+    },
+    "9.Robotic Arm and 3D Space Gripping Course/9.Wood block shape sorting.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:00:21.382922",
+      "images": 1,
+      "pages": 0
+    },
+    "9.Robotic Arm and 3D Space Gripping Course/10.KCF tracking and gripping objects.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:00:52.044743",
+      "images": 1,
+      "pages": 0
+    },
+    "9.Robotic Arm and 3D Space Gripping Course/8.Tracking and gripping color block.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:01:16.713872",
+      "images": 1,
+      "pages": 0
+    },
+    "10.MoveIt2 Simulation Course/6.Cartesian path.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:02:34.972757",
+      "images": 4,
+      "pages": 0
+    },
+    "10.MoveIt2 Simulation Course/9.Scene design.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:03:47.658757",
+      "images": 4,
+      "pages": 0
+    },
+    "12.Control Board Course/2.Control board STM32 basic routine/17.USB controller remote control.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:05:12.961278",
+      "images": 5,
+      "pages": 0
+    },
+    "5.Chassis Control Course/3.Keyboard control.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:06:07.331705",
+      "images": 3,
+      "pages": 0
+    },
+    "12.Control Board Course/2.Control board STM32 basic routine/12.Read Lidar data.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:08:05.327991",
+      "images": 8,
+      "pages": 0
+    },
+    "10.MoveIt2 Simulation Course/7.Trajectory planning.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:09:19.473766",
+      "images": 4,
+      "pages": 0
+    },
+    "13.Main Control Course/Raspberry Pi/1.Introduction to Raspberry PI 5.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:10:10.144742",
+      "images": 2,
+      "pages": 0
+    },
+    "12.Control Board Course/2.Control board STM32 basic routine/2.Button functions.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:11:26.933624",
+      "images": 5,
+      "pages": 0
+    },
+    "14.Linux System Course/11.Static IP and hotspot mode.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:14:43.969971",
+      "images": 13,
+      "pages": 0
+    },
+    "9.Robotic Arm and 3D Space Gripping Course/7.Sorting height abnormality color block.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:15:11.321255",
+      "images": 1,
+      "pages": 0
+    },
+    "15.ROS Basic Course/9.ROS2 action communication.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:16:14.007914",
+      "images": 4,
+      "pages": 0
+    },
+    "14.Linux System Course/6.Virtual machine installation.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:20:18.408349",
+      "images": 17,
+      "pages": 0
+    },
+    "12.Control Board Course/3.Control board micro_ros basic routine/2.Subscribe to a topic.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:23:02.386110",
+      "images": 10,
+      "pages": 0
+    },
+    "12.Control Board Course/3.Control board micro_ros basic routine/1.Post a topic.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:26:07.541395",
+      "images": 10,
+      "pages": 0
+    },
+    "16.Docker Course/6.Robot development environment construction in Docker.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:32:02.545135",
+      "images": 18,
+      "pages": 0
+    },
+    "12.Control Board Course/2.Control board STM32 basic routine/3.Drive the buzzer.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:33:32.377453",
+      "images": 5,
+      "pages": 0
+    },
+    "13.Main Control Course/Jetson Orin Nano_NX/9.Jtop tool.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:34:56.349773",
+      "images": 5,
+      "pages": 0
+    },
+    "13.Main Control Course/Raspberry Pi/10.Transfer files remotely.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:37:14.513275",
+      "images": 8,
+      "pages": 0
+    },
+    "12.Control Board Course/2.Control board STM32 basic routine/9.PID control of motor speed.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:38:08.805515",
+      "images": 3,
+      "pages": 0
+    },
+    "8.Mediapipe Visual Course/9.Finger control.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:38:55.763025",
+      "images": 3,
+      "pages": 0
+    },
+    "7.Depth Camera Course/5.Mediapipe gesture recognition.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:39:56.711036",
+      "images": 4,
+      "pages": 0
+    },
+    "15.ROS Basic Course/14.ROS2 DDS.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:41:20.149154",
+      "images": 5,
+      "pages": 0
+    },
+    "15.ROS Basic Course/11.ROS2 parameter service case.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:42:01.592125",
+      "images": 1,
+      "pages": 0
+    },
+    "12.Control Board Course/3.Control board micro_ros basic routine/6.Subscribe to the rate control topic.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:42:33.346809",
+      "images": 2,
+      "pages": 0
+    },
+    "12.Control Board Course/3.Control board micro_ros basic routine/7.Release Speed Topic.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:43:12.507969",
+      "images": 2,
+      "pages": 0
+    },
+    "12.Control Board Course/2.Control board STM32 basic routine/15.Driving RGB light strip.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:44:56.248568",
+      "images": 7,
+      "pages": 0
+    },
+    "0.Configuration and Operation Guide/2. Log in to the car and view the code.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:47:59.039077",
+      "images": 12,
+      "pages": 0
+    },
+    "8.Mediapipe Visual Course/13.Gesture grabbing and releasing objects.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:48:32.464828",
+      "images": 2,
+      "pages": 0
+    },
+    "3.AI Large Model (Text Version)/2.Multimodal visual understand.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:50:01.658209",
+      "images": 5,
+      "pages": 0
+    },
+    "8.Mediapipe Visual Course/8.Brush.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:50:43.473199",
+      "images": 2,
+      "pages": 0
+    },
+    "15.ROS Basic Course/17.ROS2 rviz2 use.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:53:56.450554",
+      "images": 9,
+      "pages": 0
+    },
+    "6.Lidar Course/16.Color block transport.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:55:04.765192",
+      "images": 4,
+      "pages": 0
+    },
+    "12.Control Board Course/2.Control board STM32 basic routine/8.Read motor encoder data.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:56:30.787727",
+      "images": 5,
+      "pages": 0
+    },
+    "13.Main Control Course/Jetson Nano B01/2. Burn the system image.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:57:58.077721",
+      "images": 6,
+      "pages": 0
+    },
+    "7.Depth Camera Course/8.Deep learning object tracking.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T22:59:50.782332",
+      "images": 2,
+      "pages": 0
+    },
+    "12.Control Board Course/2.Control board STM32 basic routine/14.Driving OLED Displays.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:00:52.148811",
+      "images": 4,
+      "pages": 0
+    },
+    "9.Robotic Arm and 3D Space Gripping Course/15.Line patrol and obstacle removal.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:01:36.943706",
+      "images": 2,
+      "pages": 0
+    },
+    "13.Main Control Course/Raspberry Pi/15.Using MIPI camera.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:03:11.905170",
+      "images": 6,
+      "pages": 0
+    },
+    "13.Main Control Course/Jetson Orin Nano_NX/10.Exchange space expansion.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:04:03.196257",
+      "images": 2,
+      "pages": 0
+    },
+    "9.Robotic Arm and 3D Space Gripping Course/11.Medipipe gesture ID sorting machine code.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:04:48.394025",
+      "images": 2,
+      "pages": 0
+    },
+    "12.Control Board Course/2.Control board STM32 basic routine/7.Drive motor.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:06:31.443883",
+      "images": 6,
+      "pages": 0
+    },
+    "13.Main Control Course/Raspberry Pi/9.remote access.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:08:45.795866",
+      "images": 10,
+      "pages": 0
+    },
+    "5.Chassis Control Course/2.Handle control.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:10:53.052740",
+      "images": 7,
+      "pages": 0
+    },
+    "13.Main Control Course/Raspberry Pi/8.Network Configuration.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:12:02.529889",
+      "images": 4,
+      "pages": 0
+    },
+    "9.Robotic Arm and 3D Space Gripping Course/6.Color block color sorting.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:13:12.341033",
+      "images": 3,
+      "pages": 0
+    },
+    "15.ROS Basic Course/19.ROS2 Launch startup file configuration.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:14:35.699307",
+      "images": 4,
+      "pages": 0
+    },
+    "15.ROS Basic Course/15.ROS2 time related API.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:15:43.731646",
+      "images": 4,
+      "pages": 0
+    },
+    "12.Control Board Course/2.Control board STM32 basic routine/6.Driving PWM Servo.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:18:00.330882",
+      "images": 7,
+      "pages": 0
+    },
+    "14.Linux System Course/13.Capacity expansion and resource allocation.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:19:35.403687",
+      "images": 5,
+      "pages": 0
+    },
+    "6.Lidar Course/6.Gmapping-SLAM mapping.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:20:58.851786",
+      "images": 5,
+      "pages": 0
+    },
+    "3.AI Large Model (Text Version)/6.Intention understand planning+Multimodal visual understand+robotic arm grab+SLAM Navigation.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:23:44.148704",
+      "images": 10,
+      "pages": 0
+    },
+    "15.ROS Basic Course/21.ROS2 URDF model.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:25:42.219195",
+      "images": 7,
+      "pages": 0
+    },
+    "13.Main Control Course/Jetson Nano B01/9. VNC Remote Login.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:26:31.962645",
+      "images": 3,
+      "pages": 0
+    },
+    "13.Main Control Course/Jetson Nano B01/1. Introduction to the Jetson Nano B01 SUB Board.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:27:33.631262",
+      "images": 4,
+      "pages": 0
+    },
+    "6.Lidar Course/7.Cartographer-SLAM mapping.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:29:13.948506",
+      "images": 5,
+      "pages": 0
+    },
+    "6.Lidar Course/14.APP mapping navigation.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:31:44.832267",
+      "images": 9,
+      "pages": 0
+    },
+    "13.Main Control Course/Raspberry Pi/11.Set display resolution and rotation.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:33:48.488482",
+      "images": 8,
+      "pages": 0
+    },
+    "15.ROS Basic Course/23.ROS2 TF2 coordinate transformation.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:36:49.565481",
+      "images": 9,
+      "pages": 0
+    },
+    "4.AI Large Model(Voice Version)/1.Semantic understand instruction following.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:37:24.077665",
+      "images": 2,
+      "pages": 0
+    },
+    "13.Main Control Course/Raspberry Pi/4.Startup of Raspberry PI 5.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:38:08.122877",
+      "images": 2,
+      "pages": 0
+    },
+    "9.Robotic Arm and 3D Space Gripping Course/12.Mediapipe gesture height sorting machine code.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:38:55.724578",
+      "images": 2,
+      "pages": 0
+    },
+    "13.Main Control Course/Jetson Nano B01/6. Memory card or USB flash drive expansion.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:40:25.148655",
+      "images": 6,
+      "pages": 0
+    },
+    "5.Chassis Control Course/7.Patrol.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:41:24.869504",
+      "images": 3,
+      "pages": 0
+    },
+    "5.Chassis Control Course/4.Angular velocity calibration.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:42:27.500653",
+      "images": 4,
+      "pages": 0
+    },
+    "13.Main Control Course/Jetson Nano B01/4. Startup system.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:42:45.426207",
+      "images": 1,
+      "pages": 0
+    },
+    "6.Lidar Course/8.slam_toolbox mapping.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:44:03.592645",
+      "images": 5,
+      "pages": 0
+    },
+    "0.Configuration and Operation Guide/3. Robotic Arm Calibration.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:45:03.521275",
+      "images": 4,
+      "pages": 0
+    },
+    "3.AI Large Model (Text Version)/4.Multimodal visual understand+SLAM navigation.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:47:15.752714",
+      "images": 8,
+      "pages": 0
+    },
+    "4.AI Large Model(Voice Version)/2.Multimodal visual understand.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:47:56.178500",
+      "images": 2,
+      "pages": 0
+    },
+    "13.Main Control Course/Jetson Orin Nano_NX/4.SSD expansion.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:49:47.161735",
+      "images": 6,
+      "pages": 0
+    },
+    "13.Main Control Course/Jetson Orin Nano_NX/2. Restore the factory image system.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:55:21.825775",
+      "images": 20,
+      "pages": 0
+    },
+    "5.Chassis Control Course/6.Line patrol automatic driving.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-28T23:57:26.576055",
+      "images": 7,
+      "pages": 0
+    },
+    "7.Depth Camera Course/1.Dabai_DCW2 camera introduction.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-29T00:00:43.268326",
+      "images": 10,
+      "pages": 0
+    },
+    "12.Control Board Course/2.Control board STM32 basic routine/10.Robot kinematics analysis theory.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-29T00:08:48.273546",
+      "images": 23,
+      "pages": 0
+    },
+    "6.Lidar Course/10.Navigation2 multi-point navigation avoid.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-29T00:11:41.062428",
+      "images": 10,
+      "pages": 0
+    },
+    "4.AI Large Model(Voice Version)/5.Robotic arm grab+Multimodal visual understand+SLAM navigation.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-29T00:12:54.692406",
+      "images": 4,
+      "pages": 0
+    },
+    "5.Chassis Control Course/5.Line velocity calibration.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-29T00:13:51.339585",
+      "images": 3,
+      "pages": 0
+    },
+    "3.AI Large Model (Text Version)/5.Robotic arm grab+Multimodal visual understand+SLAM navigation.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-29T00:15:07.828123",
+      "images": 3,
+      "pages": 0
+    },
+    "4.AI Large Model(Voice Version)/6.Intention understand planning+Multimodal visual understand+robotic arm grab+SLAM Navigation.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-29T00:18:37.274086",
+      "images": 11,
+      "pages": 0
+    },
+    "4.AI Large Model(Voice Version)/4.Multimodal visual understand+SLAM navigation.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-29T00:20:36.191462",
+      "images": 7,
+      "pages": 0
+    },
+    "6.Lidar Course/11.Repositioning navigation.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-29T00:21:38.844714",
+      "images": 3,
+      "pages": 0
+    },
+    "3.AI Large Model (Text Version)/3.Multimodal visual understand+robotic arm grab.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-29T00:23:20.331822",
+      "images": 6,
+      "pages": 0
+    },
+    "10.MoveIt2 Simulation Course/1.MovelT2 configuration.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-29T00:37:47.001865",
+      "images": 47,
+      "pages": 0
+    },
+    "13.Main Control Course/Jetson Orin Nano_NX/5.Network configuration.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-29T00:40:37.745074",
+      "images": 11,
+      "pages": 0
+    },
+    "4.AI Large Model(Voice Version)/3.Multimodal visual understand+robotic arm grab.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-29T00:42:30.471804",
+      "images": 6,
+      "pages": 0
+    },
+    "13.Main Control Course/Jetson Orin Nano_NX/7.VNC remote control.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-29T00:49:28.877438",
+      "images": 27,
+      "pages": 0
+    },
+    "13.Main Control Course/Jetson Orin Nano_NX/3.Backup SSD system.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-29T00:54:06.325360",
+      "images": 15,
+      "pages": 0
+    },
+    "2.AI Large Model Basics Course/5.Configure AI large model.pdf": {
+      "status": "success",
+      "timestamp": "2026-03-29T02:09:26.873311",
+      "images": 55,
+      "pages": 0
+    }
+  }
+}
