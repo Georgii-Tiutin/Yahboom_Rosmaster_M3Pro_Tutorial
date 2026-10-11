@@ -1,83 +1,107 @@
-# ROSMASTER M3 Pro — AI-Friendly Documentation
+# Yahboom ROSMASTER M3 Pro Tutorials — AI-Friendly Version
 
-Converted documentation for the [Yahboom ROSMASTER M3 Pro](https://category.yahboom.net/products/rosmaster-m3-pro) ROS2 robot platform.
+The official [Yahboom ROSMASTER M3 Pro tutorials](https://github.com/YahboomTechnology/ROSMASTER-M3PRO), converted from PDF to **Markdown + extracted images with text descriptions**, so that AI coding assistants (Claude Code, Cursor, Copilot…) and search tools can read them directly.
 
-237 PDF tutorials converted to **Markdown + extracted images with AI-generated descriptions**, optimized for use with LLMs and RAG systems.
+Converted by **Georgii Tiutin**.
 
-## What's Inside
+> **Unofficial conversion.** This is not affiliated with or endorsed by Yahboom. All tutorial
+> content, images and code belong to **Yahboom Technology**; the original PDFs are at
+> [YahboomTechnology/ROSMASTER-M3PRO](https://github.com/YahboomTechnology/ROSMASTER-M3PRO).
+> It is shared non-commercially to help other M3 Pro owners. If Yahboom would prefer it not
+> to be published, please open an issue here and it will be taken down.
 
-- **`ROSMASTER-M3PRO-DOCS-MD/`** — 237 tutorials as Markdown, organized in 18 course directories covering:
-  - Robot configuration, chassis control, LiDAR SLAM/navigation
-  - Depth camera, Mediapipe vision, robotic arm gripping
+## Why
+
+The PDFs are easy for people to read but hard for AI tools: they can't search across 237 PDFs, and they can't see the screenshots that many steps depend on. Here every tutorial is plain Markdown, and every image has a text description and its OCR'd text, so an assistant can find the right tutorial with a text search and understand the screenshots too.
+
+## What's inside
+
+- **`ROSMASTER-M3PRO-DOCS-MD/`**: the 237 tutorials as Markdown, in 18 course folders:
+  - robot configuration, chassis control, LiDAR SLAM / navigation
+  - depth camera, Mediapipe vision, robotic arm and 3D gripping
   - MoveIt2 simulation, multi-vehicle coordination
   - AI large model integration (text and voice)
-  - STM32 control board, ROS2 basics, Docker, Linux, OpenCV
+  - STM32 control board, ROS 2 basics, Docker, Linux, OpenCV
+- **`ROSMASTER-M3PRO-DOCS-MD/Annex Download Files/`**: only the `Download.link.txt` files. Yahboom's code, 3D model and firmware downloads (~6.5 GB) are **not** included; follow the links to get them.
+- **`agents/generic-rosmaster-m3pro.md`**: a Claude Code agent with the platform specs and a map of the documentation.
+- **`convert_pdfs.py`**: the conversion script, so the docs can be rebuilt when Yahboom updates the PDFs.
+- **Owner's notes (not from Yahboom):**
+  - `ROSMASTER-M3PRO-DOCS-MD/HARDWARE.md`: hardware facts checked on one specific unit (Jetson Orin NX 8GB). Yours may differ.
+  - `ROSMASTER-M3PRO-DOCS-MD/keep_in_mind.md`: reusable patterns and pitfalls collected while working through the courses.
 
-- **`agents/generic-rosmaster-m3pro.md`** — Claude Code agent file with platform specs and documentation map. Symlink `ROSMASTER-M3PRO-DOCS-MD/` into your project and load this agent for development assistance.
+## Version
 
-- **`convert_pdfs.py`** — Conversion pipeline (Marker + PyMuPDF + Tesseract + Claude Code CLI for image descriptions).
+The current docs were converted from Yahboom's repository as of **18 Nov 2025** (commit `617590d`). Yahboom has since added and renumbered some courses, so **folder numbers here may not match the latest upstream numbering**; refer to courses by name. An update to the latest version is in progress.
 
-## Document Format
+## Document format
 
 Each tutorial is a folder:
 
 ```
 <tutorial_name>/
-  <tutorial_name>.md        # Main content with headings, code blocks, tables, image refs
+  <tutorial_name>.md        # main content: headings, code blocks, tables, image references
   images/
-    img_001.png             # Extracted screenshot/diagram
-    img_001.md              # Sidecar: metadata, caption, description, OCR text
+    img_001.png             # extracted screenshot or diagram
+    img_001.md              # sidecar: source page, image type, caption, description, OCR text
     img_002.png
     img_002.md
 ```
 
 Image sidecar files contain:
-- Source PDF name and page number
-- Image type classification (screenshot, diagram, chart, photo, code, ui)
-- AI-generated caption and detailed description
-- OCR-extracted text
+- source PDF name and page number
+- image type (screenshot, diagram, chart, photo, code, ui)
+- an AI-generated caption and detailed description
+- the text found in the image (OCR)
 
-## Using with Claude Code
+## Using it with Claude Code
 
-1. Symlink the docs into your robot project:
+1. Clone this repository somewhere on your computer:
    ```bash
-   ln -s /path/to/robotdoc/ROSMASTER-M3PRO-DOCS-MD ./ROSMASTER-M3PRO-DOCS-MD
+   git clone https://github.com/Georgii-Tiutin/Yahboom_Rosmaster_M3Pro_Tutorial.git
    ```
-
-2. Copy the agent file:
+2. Link the docs into your robot project:
    ```bash
-   cp /path/to/robotdoc/agents/generic-rosmaster-m3pro.md .claude/agents/
+   ln -s /path/to/Yahboom_Rosmaster_M3Pro_Tutorial/ROSMASTER-M3PRO-DOCS-MD ./ROSMASTER-M3PRO-DOCS-MD
    ```
+3. Copy the agent file:
+   ```bash
+   mkdir -p .claude/agents
+   cp /path/to/Yahboom_Rosmaster_M3Pro_Tutorial/agents/generic-rosmaster-m3pro.md .claude/agents/
+   ```
+4. Claude Code searches the documentation on demand with Grep/Glob/Read; nothing needs loading up front.
 
-3. Claude Code will search through documentation on demand using Grep/Glob/Read.
+Other AI tools work the same way: point them at `ROSMASTER-M3PRO-DOCS-MD/`.
 
-## Rebuilding from PDFs
+## Rebuilding from the PDFs
 
-Requires: `brew install tesseract`, `pip3 install marker-pdf`
+Requirements: `brew install tesseract`, `pip3 install marker-pdf pillow tqdm`, and the [Claude Code CLI](https://claude.com/claude-code) if you want AI image descriptions.
 
 ```bash
-# Clone original PDFs
-git clone git@github.com:YahboomTechnology/ROSMASTER-M3PRO.git
+# Get the original PDFs
+git clone https://github.com/YahboomTechnology/ROSMASTER-M3PRO.git
 
-# Convert all (auto-resumes if interrupted)
+# Convert everything (resumes automatically if interrupted)
 python3 convert_pdfs.py ROSMASTER-M3PRO ROSMASTER-M3PRO-DOCS-MD --description-mode claude
 
-# Verify output
+# Check the output is complete
 python3 convert_pdfs.py ROSMASTER-M3PRO ROSMASTER-M3PRO-DOCS-MD --verify
 ```
 
-## Robot Platform
+`--description-mode` can be `claude` (AI descriptions), `heuristic` (basic descriptions, no AI) or `none`. Other options: `--force`, `--skip-failed`, `--dry-run`, `--only PATTERN`.
+
+## Robot platform
 
 | Component | Details |
 |-----------|---------|
 | Chassis | Mecanum wheels, pendulum suspension, omnidirectional |
-| Arm | 6-DOF servo-driven robotic arm |
-| Camera | Binocular structured light depth camera (Dabai DCW2) |
-| LiDAR | Dual TOF (front-left + rear-right), 360-degree scanning |
-| Controllers | Raspberry Pi 5, Jetson Nano B01, Jetson Orin Nano/NX Super |
-| ROS | ROS2 Humble |
+| Arm | 6-DOF robotic arm on serial bus servos |
+| Camera | Binocular structured-light depth camera (Orbbec DaBai DCW2) |
+| LiDAR | Dual TOF (front-left + rear-right), 360° scanning |
+| Main controllers | Raspberry Pi 5, Jetson Nano B01, Jetson Orin Nano / NX Super |
+| ROS | ROS 2 Humble |
 | AI | Speech recognition, NLU, multimodal interaction, RAG |
 
 ## Contact
 
-Yahboom technical support: support@yahboom.com
+- Questions about the robot or the tutorials themselves: Yahboom technical support, support@yahboom.com
+- Problems with the conversion (missing pages, broken tables, wrong descriptions): open an issue in this repository
