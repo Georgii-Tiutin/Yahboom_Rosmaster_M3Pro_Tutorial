@@ -101,6 +101,11 @@ python3 convert_pdfs.py ROSMASTER-M3PRO ROSMASTER-M3PRO-DOCS-MD --verify
 | ROS | ROS 2 Humble |
 | AI | Speech recognition, NLU, multimodal interaction, RAG |
 
+## Licence
+
+- **The tutorials** (everything converted from Yahboom's PDFs, including the extracted images and their description files) belong to Yahboom Technology. No licence is granted for them here.
+- **The conversion script, agent file, owner's notes and this README** are © 2026 Georgii Tiutin, released under the [MIT License](LICENSE). The exact list of files is at the top of `LICENSE`.
+
 ## Contact
 
 - Questions about the robot or the tutorials themselves: Yahboom technical support, support@yahboom.com
