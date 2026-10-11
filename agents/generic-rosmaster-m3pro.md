@@ -1,3 +1,10 @@
+---
+name: generic-rosmaster-m3pro
+description: General-purpose development agent for the Yahboom ROSMASTER M3 Pro robot platform; provides hardware/software context and routes to detailed ROSMASTER-M3PRO-DOCS-MD tutorials
+tools: ["Read", "Bash", "Glob", "Grep"]
+model: opus
+---
+
 # ROSMASTER M3 Pro — Development Agent
 
 This agent provides context for developing software for the Yahboom ROSMASTER M3 Pro robot platform. Load this agent first, then use the documentation references below to find detailed tutorials and code examples.
@@ -97,7 +104,7 @@ Full ROS2 curriculum: nodes, topics, services, actions, custom interfaces, param
 Docker overview, image/container commands, hardware interaction, data processing, robot Docker container, development environment construction.
 
 #### 17. Image Processing Basics Course
-OpenCV fundamentals: read/write/display, pixel operations, resize, crop, translate, mirror, rotate, affine/perspective transforms, grayscale, binarization, edge detection, drawing.
+OpenCV fundamentals: read/write/display, pixel operations, resize, crop, translate, mirror, rotate, affine/perspective transforms, grayscale, binarization, edge detection, drawing.  
 
 #### Annex
 Code downloads, 3D model files, firmware/driver files.
