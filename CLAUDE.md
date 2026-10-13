@@ -2,7 +2,7 @@
 
 ## Repository Purpose
 
-AI-friendly documentation repository for the **Yahboom ROSMASTER M3 Pro** ROS2 robot platform. Contains 237 tutorials converted from PDF to Markdown with extracted images and per-image description sidecars.
+AI-friendly documentation repository for the **Yahboom ROSMASTER M3 Pro** ROS2 robot platform. Contains 288 tutorials (courses 00–23, Yahboom upstream commit `015d065`, Aug 2026) converted from PDF to Markdown with extracted images and per-image description sidecars.
 
 ## Agents
 
@@ -10,34 +10,29 @@ AI-friendly documentation repository for the **Yahboom ROSMASTER M3 Pro** ROS2 r
 
 ## How to Find Documentation
 
-Use Grep/Glob to search through `ROSMASTER-M3PRO-DOCS-MD/`. Course directories are numbered 0–17.
+Use Grep/Glob to search through `ROSMASTER-M3PRO-DOCS-MD/`. Course folders are numbered `00`–`23` and match Yahboom's current upstream numbering.
 
-> **Caveat (2026-08-26): these numbers are a stale snapshot.** This tree was converted
-> *before* an upstream Yahboom repository update in which some courses changed position, so
-> the local folder numbers do not reliably match the current official numbering. **Refer to
-> courses by name, not by number** — a given number here may point at a different course
-> than the same number upstream. The table below describes *this local tree* and remains
-> correct for searching it. (A likely symptom of the same reshuffle: course `0.` skips from
-> `4.` to `6.` with no section 5.)
+| # | Course |
+|---|--------|
+| 00 | Configuration and operation guide (quick start, login, Docker entry, firmware parameters) |
+| 01 | Chassis control (mecanum wheels, velocity calibration) |
+| 02 | LiDAR (SLAM mapping, Navigation2, obstacle avoidance) |
+| 03 | Depth camera (DaBai DCW2, distance/volume measurement, YOLO) |
+| 04 | Robotic arm and 3D space gripping |
+| 05 | Road network planning and navigation |
+| 06–10 | OpenClaw (basics, interaction methods, development, embodied applications, scenario sandbox) |
+| 11–14 | AI large models (basics, development, voice version, text version) |
+| 15 | Mediapipe vision |
+| 16 | MoveIt2 simulation |
+| 17 | Multi-vehicle |
+| 18 | STM32 control board (dev environment, firmware flashing, basic routines, micro-ROS) |
+| 19 | Docker |
+| 20 | Image processing basics (OpenCV) |
+| 21 | Main controller setup (Jetson Nano, Orin, Raspberry Pi 5) |
+| 22 | Linux system basics |
+| 23 | ROS 2 basics |
 
-
-| # | Topic |
-|---|-------|
-| 0 | Configuration & operation quickstart |
-| 1–4 | AI large model (preparation, basics, text version, voice version) |
-| 5 | Chassis control (Mecanum wheels, velocity calibration, line patrol) |
-| 6 | LiDAR (SLAM mapping, Navigation2, obstacle avoidance, tracking) |
-| 7 | Depth camera (distance/volume measurement, YOLOv8, tracking) |
-| 8 | Mediapipe (hand/face/posture detection, gesture control) |
-| 9 | Robotic arm & 3D gripping (sorting, tracking, KCF) |
-| 10 | MoveIt2 simulation (kinematics, trajectory planning, collision) |
-| 11 | Multi-vehicle (formation, coordinated navigation) |
-| 12 | STM32 control board (dev environment, basic routines, micro-ROS) |
-| 13 | Main controller setup (Jetson Nano, Orin, Raspberry Pi 5) |
-| 14 | Linux system basics |
-| 15 | ROS2 basics (full curriculum: nodes, topics, services, TF2, Gazebo) |
-| 16 | Docker |
-| 17 | Image processing (OpenCV fundamentals) |
+`HARDWARE.md` and `keep_in_mind.md` in `ROSMASTER-M3PRO-DOCS-MD/` are the owner's notes on one specific unit, not Yahboom content. Their "course 0" references mean `00.Configuration and Operation Guide`.
 
 ## PDF Conversion Pipeline
 

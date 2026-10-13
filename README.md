@@ -12,16 +12,17 @@ Converted by **Georgii Tiutin**.
 
 ## Why
 
-The PDFs are easy for people to read but hard for AI tools: they can't search across 237 PDFs, and they can't see the screenshots that many steps depend on. Here every tutorial is plain Markdown, and every image has a text description and its OCR'd text, so an assistant can find the right tutorial with a text search and understand the screenshots too.
+The PDFs are easy for people to read but hard for AI tools: they can't search across 288 PDFs, and they can't see the screenshots that many steps depend on. Here every tutorial is plain Markdown, and every image has a text description and its OCR'd text, so an assistant can find the right tutorial with a text search and understand the screenshots too.
 
 ## What's inside
 
-- **`ROSMASTER-M3PRO-DOCS-MD/`**: the 237 tutorials as Markdown, in 18 course folders:
-  - robot configuration, chassis control, LiDAR SLAM / navigation
+- **`ROSMASTER-M3PRO-DOCS-MD/`**: the 288 tutorials as Markdown, in 24 course folders numbered `00`–`23` exactly as upstream:
+  - robot configuration, chassis control, LiDAR SLAM, road-network planning and navigation
   - depth camera, Mediapipe vision, robotic arm and 3D gripping
+  - OpenClaw (basics, interaction, development, embodied applications, scenario sandbox)
+  - AI large models (basics, development, text and voice versions)
   - MoveIt2 simulation, multi-vehicle coordination
-  - AI large model integration (text and voice)
-  - STM32 control board, ROS 2 basics, Docker, Linux, OpenCV
+  - STM32 control board, main controllers, ROS 2 basics, Docker, Linux, OpenCV
 - **`ROSMASTER-M3PRO-DOCS-MD/Annex Download Files/`**: only the `Download.link.txt` files. Yahboom's code, 3D model and firmware downloads (~6.5 GB) are **not** included; follow the links to get them.
 - **`agents/generic-rosmaster-m3pro.md`**: a Claude Code agent with the platform specs and a map of the documentation.
 - **`convert_pdfs.py`**: the conversion script, so the docs can be rebuilt when Yahboom updates the PDFs.
@@ -31,7 +32,7 @@ The PDFs are easy for people to read but hard for AI tools: they can't search ac
 
 ## Version
 
-The current docs were converted from Yahboom's repository as of **18 Nov 2025** (commit `617590d`). Yahboom has since added and renumbered some courses, so **folder numbers here may not match the latest upstream numbering**; refer to courses by name. An update to the latest version is in progress.
+The current docs were converted from Yahboom's repository as of **11 Aug 2026** (commit `015d065`, the latest at the time of conversion in Oct 2026): all 288 PDFs, with the same course numbering as upstream. An earlier conversion of the Nov 2025 version (237 tutorials, older numbering) is in this repository's git history.
 
 ## Document format
 
